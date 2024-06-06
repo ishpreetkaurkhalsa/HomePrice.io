@@ -1,6 +1,6 @@
 # HomePrice.io Project
 
-Welcome to the HomePrice.io project! This project aims to provide a seamless solution for predicting real estate prices based on various parameters such as square footage, number of bedrooms, and other features. By combining data science techniques with web development, we have created an interactive website where users can input property details and receive accurate price predictions.
+Welcome to the HomePrice.io project! This project aims to provide a seamless solution for predicting real estate prices based on various parameters such as square footage, number of bedrooms, and other features. By combining data science techniques with web development, I have created an interactive website where users can input property details and receive accurate price predictions.
 
 ## Overview
 
@@ -26,7 +26,7 @@ The HomePrice.io project consists of three main components:
 
 To use the HomePrice.io project, follow these steps:
 
-1. **Clone the Repository**: Clone the project repository from [GitHub](https://github.com/yourusername/homeprice.io).
+1. **Clone the Repository**: Clone the project repository from [GitHub](https://github.com/ishpreetkaurkhalsa/HomePrice.io.git).
 
 2. **Set up Environment**: Ensure you have Python installed on your system along with required libraries (NumPy, Pandas, Matplotlib, Scikit-learn, Flask).
 
