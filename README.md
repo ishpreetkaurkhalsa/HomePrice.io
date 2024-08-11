@@ -2,6 +2,10 @@
 
 Welcome to the HomePrice.io project! This project aims to provide a seamless solution for predicting real estate prices based on various parameters such as square footage, number of bedrooms, and other features. By combining data science techniques with web development, I have created an interactive website where users can input property details and receive accurate price predictions.
 
+![Screenshot (1150)](https://github.com/user-attachments/assets/eacfbfe8-2f2a-48a2-82c4-0f9427ac7f83)
+![Screenshot (1151)](https://github.com/user-attachments/assets/3e5ddf08-1eeb-4823-a57d-344d6d4843af)
+
+
 ## Overview
 
 The HomePrice.io project consists of three main components:
